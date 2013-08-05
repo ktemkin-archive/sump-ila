@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ktemkin/Documents/Projects/SumpILA/ila/papilio_one_example.ncd
+OUTFILE=/home/ktemkin/Documents/Projects/SumpILA/ila/papilio_one_example.bit
+FAMILY=Spartan3E
+PART=xc3s250e-4vq100
+WORKINGDIR=/home/ktemkin/Documents/Projects/SumpILA/ila
+LICENSE=WebPack
+USER_INFO=210773057_0_0_635

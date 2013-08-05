@@ -1,0 +1,14 @@
+# Output products list for <BRAM16k8bit>
+BRAM16k8bit.asy
+BRAM16k8bit.gise
+BRAM16k8bit.ise
+BRAM16k8bit.ngc
+BRAM16k8bit.sym
+BRAM16k8bit.v
+BRAM16k8bit.veo
+BRAM16k8bit.vhd
+BRAM16k8bit.vho
+BRAM16k8bit.xco
+BRAM16k8bit.xise
+BRAM16k8bit_flist.txt
+BRAM16k8bit_xmdf.tcl

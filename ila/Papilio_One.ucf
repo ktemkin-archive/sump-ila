@@ -1,0 +1,8 @@
+# Crystal Clock - use 32MHz onboard oscillator
+NET "clk" LOC = "P89" | IOSTANDARD = LVCMOS25 | PERIOD = 31.25ns ;
+
+#--Inside row numbering
+## RS232
+NET "rx"  LOC = "P88" | IOSTANDARD = LVCMOS25 ;
+NET "tx"  LOC = "P90" | IOSTANDARD = LVCMOS25 | DRIVE = 4 | SLEW = SLOW ;
+
