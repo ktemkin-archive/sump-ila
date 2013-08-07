@@ -102,7 +102,7 @@
             <blockpin signalname="COUNT(15:0)" name="Q(15:0)" />
             <blockpin name="TC" />
         </block>
-        <block symbolname="simple_logic_analyzer" name="XLXI_28">
+        <block symbolname="simple_logic_analyzer" name="ILA">
             <blockpin signalname="clk" name="clk" />
             <blockpin signalname="rx" name="from_pc" />
             <blockpin signalname="tx" name="to_pc" />
@@ -149,7 +149,7 @@
             <wire x2="1888" y1="416" y2="416" x1="1872" />
             <wire x2="1904" y1="416" y2="416" x1="1888" />
         </branch>
-        <instance x="1904" y="1024" name="XLXI_28" orien="R0">
+        <instance x="1904" y="1024" name="ILA" orien="R0">
         </instance>
         <branch name="XLXN_75">
             <wire x2="1888" y1="704" y2="704" x1="1600" />

@@ -1,0 +1,3 @@
+MODULE papilio_one_example
+	SUBMODULE simple_logic_analyzer
+		INSTANCE ILA
